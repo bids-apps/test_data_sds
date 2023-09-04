@@ -13,3 +13,8 @@
 	url = https://gin.g-node.org/bids_apps_test_data/hcp_example_bids
 	datalad-id = 1682ec9a-c0d0-48c8-9691-c1acd4c29713
 	datalad-url = https://gin.g-node.org/bids_apps_test_data/hcp_example_bids
+[submodule "ds114_reduced_with_derivatives"]
+	path = ds114_reduced_with_derivatives
+	url = https://gin.g-node.org/bids_apps_test_data/ds114_reduced_with_derivatives
+	datalad-id = e3d1325f-d574-4538-bec1-a3309d3bf7fd
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_reduced_with_derivatives
