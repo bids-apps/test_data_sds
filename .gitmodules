@@ -33,3 +33,8 @@
 	url = https://gin.g-node.org/bids_apps_test_data/ds114_test1_freesurfer
 	datalad-id = f417348a-3ba0-4adf-886d-438236915186
 	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_test1_freesurfer
+[submodule "ds114_test1_freesurfer_v6.0.0"]
+	path = ds114_test1_freesurfer_v6.0.0
+	url = https://gin.g-node.org/bids_apps_test_data/ds114_test1_freesurfer_v6.0.0
+	datalad-id = dca72589-9f16-405e-a26f-d31de62f6364
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_test1_freesurfer_v6.0.0
