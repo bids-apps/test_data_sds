@@ -8,3 +8,8 @@
 	url = https://gin.g-node.org/bids_apps_test_data/bids_langloc_dataset
 	datalad-id = c171e66c-78f9-4f99-8f77-1d1095df34ce
 	datalad-url = https://gin.g-node.org/bids_apps_test_data/bids_langloc_dataset
+[submodule "hcp_example_bids"]
+	path = hcp_example_bids
+	url = https://gin.g-node.org/bids_apps_test_data/hcp_example_bids
+	datalad-id = 1682ec9a-c0d0-48c8-9691-c1acd4c29713
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/hcp_example_bids
