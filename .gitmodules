@@ -3,3 +3,8 @@
 	url = https://gin.g-node.org/bids_apps_test_data/ds003_downsampled
 	datalad-id = 7cc05644-a1b9-409a-b484-373e1100ab07
 	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds003_downsampled
+[submodule "bids_langloc_dataset"]
+	path = bids_langloc_dataset
+	url = https://gin.g-node.org/bids_apps_test_data/bids_langloc_dataset
+	datalad-id = c171e66c-78f9-4f99-8f77-1d1095df34ce
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/bids_langloc_dataset
