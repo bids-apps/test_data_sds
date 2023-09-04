@@ -23,3 +23,8 @@
 	url = https://gin.g-node.org/bids_apps_test_data/ds114_test2
 	datalad-id = 08aa30f5-1136-4e6d-bcc6-c0e21e1cf6eb
 	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_test2
+[submodule "ds114_test1"]
+	path = ds114_test1
+	url = https://gin.g-node.org/bids_apps_test_data/ds114_test1
+	datalad-id = 3239be28-656a-43a0-b9c2-312f7a3e646a
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_test1
