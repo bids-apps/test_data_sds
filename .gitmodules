@@ -1,0 +1,5 @@
+[submodule "ds003_downsampled"]
+	path = ds003_downsampled
+	url = https://gin.g-node.org/bids_apps_test_data/ds003_downsampled
+	datalad-id = 7cc05644-a1b9-409a-b484-373e1100ab07
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds003_downsampled
