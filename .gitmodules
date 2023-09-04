@@ -18,3 +18,8 @@
 	url = https://gin.g-node.org/bids_apps_test_data/ds114_reduced_with_derivatives
 	datalad-id = e3d1325f-d574-4538-bec1-a3309d3bf7fd
 	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_reduced_with_derivatives
+[submodule "ds114_test2"]
+	path = ds114_test2
+	url = https://gin.g-node.org/bids_apps_test_data/ds114_test2
+	datalad-id = 08aa30f5-1136-4e6d-bcc6-c0e21e1cf6eb
+	datalad-url = https://gin.g-node.org/bids_apps_test_data/ds114_test2
